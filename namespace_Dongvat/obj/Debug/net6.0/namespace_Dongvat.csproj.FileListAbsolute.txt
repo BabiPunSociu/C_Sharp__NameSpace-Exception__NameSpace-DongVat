@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\bin\Debug\net6.0\namespace_Dongvat.exe
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\bin\Debug\net6.0\namespace_Dongvat.deps.json
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\bin\Debug\net6.0\namespace_Dongvat.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\bin\Debug\net6.0\namespace_Dongvat.dll
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\bin\Debug\net6.0\namespace_Dongvat.pdb
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\namespace_Dongvat.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\namespace_Dongvat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\namespace_Dongvat.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\namespace_Dongvat.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\namespace_Dongvat.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\namespace_Dongvat.dll
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\refint\namespace_Dongvat.dll
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\namespace_Dongvat.pdb
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\namespace_Dongvat.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\Namespace & Exception\namespace_Dongvat\namespace_Dongvat\obj\Debug\net6.0\ref\namespace_Dongvat.dll
